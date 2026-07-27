@@ -1,4 +1,3 @@
-```
 # Undergraves
 
 Command-line web crawler for domain mapping and endpoint discovery. Performs breadth-first search (BFS) restricted strictly to the target's base domain, collecting active URLs and page titles in real time.
@@ -92,7 +91,3 @@ pytest
 ## License
 
 MIT
-
-```
-
-```
